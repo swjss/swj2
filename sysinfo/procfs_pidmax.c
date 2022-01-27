@@ -30,6 +30,6 @@ main(int argc,char *argv[])
         system("echo /proc/sys/kernel/pid_max now contains"
                 "`cat /proc/sys/kernel/pid_max`");
     }
-
+//编辑
     exit(EXIT_SUCCESS);
 }
